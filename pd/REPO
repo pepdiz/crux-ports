@@ -1,0 +1,14 @@
+d:tomcat
+d:jdk
+f:7ae2f3307db7489f0d5622e83c27db10:tomcat/tomcat.env
+f:10df55da7d6884d9b237f37fdce51502:tomcat/tomcat
+f:58c2e64db9321911467445cf2cb86f42:tomcat/pre-install
+f:f5eba1a78dc7d18bf6136ca4a0ef95d1:tomcat/Pkgfile
+f:6db9d8287f5ae4f041c1fed9fac11dff:tomcat/.md5sum
+f:37a9095a7ccebc43937afb80d3bd3c1a:tomcat/.footprint
+f:d8e0da19e05574e1ab5eeb107b990f32:jdk/README
+f:96936fbaffe184853dfc847725b33ab3:jdk/Pkgfile
+f:32b6017674a2f05e4137932b0aeefd9f:jdk/.md5sum
+f:2e2b60dcf2805c9147e0549b84bab45e:jdk/.footprint
+f:5d280429251c9a2faf627a071c2a22b7:.httpup-urlinfo
+f:93f3f66d928d586131b689e2e456e0d8:.httpup-repo.current
