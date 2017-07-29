@@ -1,0 +1,7 @@
+#
+# /tmp/ports/pd.httpup: Pep Diz's port collection
+#
+
+ROOT_DIR=/tmp/ports/pd
+URL=http://raw.githubusercontent.com/pepdiz/crux-ports/master
+
