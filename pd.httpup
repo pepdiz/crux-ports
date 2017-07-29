@@ -3,5 +3,5 @@
 #
 
 ROOT_DIR=/tmp/ports/pd
-URL=http://raw.githubusercontent.com/pepdiz/crux-ports/master
+URL=http://raw.githubusercontent.com/pepdiz/crux-ports/master/pd/
 
